@@ -12,3 +12,10 @@ The material pertaining to the tensorflow tutorial may be found in the
 [tensorflow](https://github.com/wendazhou/advanced-ml-fall-17/tree/master/tensorflow) folder.
 It is divided in three files: introduction, example, and example with tensorboard.
 The data necessary for the tutorial may be found in the data folder.
+
+You will need to update your environment (if you haven't done so) by downloading the
+[environment file](https://raw.githubusercontent.com/wendazhou/advanced-ml-fall-17/master/python/AdvML.yml)
+and running
+```bash
+conda env update -f AdvML.yml
+```
